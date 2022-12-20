@@ -1,9 +1,9 @@
 ### Hi there 👋 , I'm [Ved Prakash Shukla](https://www.linkedin.com/in/vedshuklaknp) :alien: .
 
 <p>
-I am a final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Kanpur.
+I am a Graduate student of Bachelor of Technology degree in Computer Science and Engineering at Kanpur.
 
-I have deep interest in Netwoking and CyberSecurity and love to work on new and interesting technologies.
+I have deep interest in Data Analytics and Data Engineering and love to work on new and interesting technologies.
 </p>
 
 ``` Technologies I like to work upon ```

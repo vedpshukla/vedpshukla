@@ -12,9 +12,6 @@ I have deep interest in Netwoking and CyberSecurity and love to work on new and 
 <img src="https://img.icons8.com/fluency/48/null/python.png" alt="Python" />
 <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" />
 <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="48" height="48" /> 
-<img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" width="40" height="40"/> 
-<img src="https://icons8.com/icon/13654/microsoft-excel"  width="40" height="40"/> 
-<img src="https://icons8.com/icon/13654/microsoft-excel" width="40" height="40"/> 
   
 </p>
 
@@ -33,20 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Chill 
 
 
-<div>
-<h2 align="center"> Socials </h2>
-<br/>
-
-<p align="center"> 
-<code>
-<a href="https://www.github.com/vedpshukla" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/sf-regular-filled/48/null/github.png" /></a> 
-<a href="http://www.instagram.com/vedshuklaa" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" /></a>
-<a href="https://www.linkedin.com/in/vedshuklaknp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a> 
-<a href="https://www.twitter.com/vedshuklaknp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/twitter.png" /></a>
-</code>
-</p>
-
-</div>
 
 <div>
     <h2 align="center"> 📊 Github stats </h2>

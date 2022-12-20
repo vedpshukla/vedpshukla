@@ -9,30 +9,44 @@ I have deep interest in Netwoking and CyberSecurity and love to work on new and 
 ``` Technologies I like to work upon ```
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  
-</p>
+<img src="https://img.icons8.com/fluency/48/null/python.png" alt="Python" />
+<img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" />
+<img src="https://img.icons8.com/color/512/amazon-web-services.png" width="48" height="48" /> 
+<img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="sass" width="40" height="40"/> 
+<img src="https://icons8.com/icon/13654/microsoft-excel" alt="sass" width="40" height="40"/> 
+<img src="https://icons8.com/icon/13654/microsoft-excel" alt="sass" width="40" height="40"/> 
   
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=vedpshukla&&show_icons=true"/>
-  </a>
 </p>
 
-**vedpshukla/vedpshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **vedpshukla/vedpshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on .Data Analyst..
-- 🌱 I’m currently learning .Python..
-- 👯 I’m looking to collaborate on .Data Projects..
-- 🤔 I’m looking for help with ..Python.
-- 💬 Ask me about .SQL..
-- 📫 How to reach me: .vedshuklasln@gmail.com..
-- 😄 Pronouns: .He/Him..
-- ⚡ Fun fact: .Chill ..
+- 🔭 I’m currently working on ... mySQL && Python
+- 🌱 I’m currently learning ... Python
+- 👯 I’m looking to collaborate on ... Data Projects
+- 🤔 I’m looking for help with ... Python
+- 💬 Ask me about ... SQL
+- 📫 How to reach me: ... vedshuklasln@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Chill 
+
+
+<div>
+<h2 align="center"> Socials </h2>
+<br/>
+
+<p align="center"> 
+<code>
+<a href="https://www.github.com/vedpshukla" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/sf-regular-filled/48/null/github.png" /></a> 
+<a href="http://www.instagram.com/vedshuklaa" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png" /></a>
+<a href="https://www.linkedin.com/in/vedshuklaknp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a> 
+<a href="https://www.twitter.com/vedshuklaknp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/null/twitter.png" /></a>
+</code>
+</p>
+
+</div>
 
 <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -49,8 +63,6 @@ Here are some ideas to get you started:
        </p>
      <br>
   </div> 
-
-
 
 
 

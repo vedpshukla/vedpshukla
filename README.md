@@ -12,9 +12,9 @@ I have deep interest in Netwoking and CyberSecurity and love to work on new and 
 <img src="https://img.icons8.com/fluency/48/null/python.png" alt="Python" />
 <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" />
 <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="48" height="48" /> 
-<img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="sass" width="40" height="40"/> 
-<img src="https://icons8.com/icon/13654/microsoft-excel" alt="sass" width="40" height="40"/> 
-<img src="https://icons8.com/icon/13654/microsoft-excel" alt="sass" width="40" height="40"/> 
+<img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" width="40" height="40"/> 
+<img src="https://icons8.com/icon/13654/microsoft-excel"  width="40" height="40"/> 
+<img src="https://icons8.com/icon/13654/microsoft-excel" width="40" height="40"/> 
   
 </p>
 

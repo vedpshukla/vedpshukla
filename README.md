@@ -12,6 +12,7 @@ I have deep interest in Data Analytics and Data Engineering and love to work on 
 <img src="https://img.icons8.com/fluency/48/null/python.png" alt="Python" />
 <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="MongoDB" />
 <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="48" height="48" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   
 </p>
 

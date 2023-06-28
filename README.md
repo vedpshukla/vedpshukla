@@ -1,4 +1,6 @@
 ### Hi there 👋 , I'm [Ved Prakash Shukla](https://www.linkedin.com/in/vedshuklaknp) :alien: .
+<h3 align="center">I am an aspiring Data Analyst from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedpshukla&label=Profile%20views&color=0e75b6&style=flat" alt="vedpshukla" /> </p>
 
 <p>
 I am a Graduate student of Bachelor of Technology degree in Computer Science and Engineering at Kanpur.
@@ -21,11 +23,11 @@ I have deep interest in Data Analytics and Data Engineering and love to work on 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... mySQL && Python
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ... Data Projects
-- 🤔 I’m looking for help with ... Python
-- 💬 Ask me about ... SQL
+- 🔭 I’m currently working on ... MySQL & Python
+- 🌱 I’m currently learning ... Data Engineering
+- 👯 I’m looking to collaborate on ... AI/Cloud Projects
+- 🤔 I’m looking for help with ... ML && AI
+- 💬 Ask me about ... SQL & Python
 - 📫 How to reach me: ... vedshuklasln@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Chill 

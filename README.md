@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm [Ved Prakash Shukla](https://www.linkedin.com/in/vedshuklaknp) :alien: .
-<h3>I am an Data Analyst from India</h3>
+<h3>I am Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedpshukla&label=Profile%20views&color=0e75b6&style=flat" alt="vedpshukla" /> </p>
 
 <p>

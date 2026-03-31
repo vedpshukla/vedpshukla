@@ -31,7 +31,7 @@ I've worked across fintech, analytics, and enterprise domains, consistently driv
 - 🌱 **Learning:** Advanced lakehouse architectures, dbt, and real-time streaming patterns
 - 👯 **Open to collaborate on:** Data Engineering, Cloud-native, and AI/ML infrastructure projects
 - 💬 **Ask me about:** PySpark, Azure Data Factory, ETL design, Delta Lake, SQL optimization
-- 📫 **Contact:** [vedp.motigarpur@gmail.com](mailto:vedp.motigarpur@gmail.com) · 📱 +91-8795900521
+- 📫 **Contact:** [vedp.motigarpur@gmail.com](mailto:vedp.motigarpur@gmail.com) 
 - 😄 **Pronouns:** He/Him
 
 ---
@@ -102,21 +102,6 @@ I've worked across fintech, analytics, and enterprise domains, consistently driv
 **Kanpur Institute of Technology, Kanpur, India** &nbsp;·&nbsp; `2017 – 2021`  
 B.Tech — Computer Science and Engineering &nbsp;|&nbsp; **CGPA: 7.3**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/vedprshukla/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedprshukla&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vedprshukla/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vedprshukla&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedprshukla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 

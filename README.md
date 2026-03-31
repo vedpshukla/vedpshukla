@@ -80,7 +80,7 @@ I've worked across fintech, analytics, and enterprise domains, consistently driv
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="48" height="48" />&nbsp;
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" alt="MongoDB" />&nbsp;
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS" alt="AWS" />&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-azure.png" title="Azure" alt="Azure" />&nbsp;
+  <img src="https://icons8.com/icon/VLKafOkk3sBX/azure" title="Azure" alt="Azure" />&nbsp;
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" />&nbsp;
   <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" alt="Tableau" />&nbsp;
   <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git" />&nbsp;

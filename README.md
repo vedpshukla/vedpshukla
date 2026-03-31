@@ -31,7 +31,7 @@ I'm a **Data Engineer with 4 years of experience** in designing, implementing, a
 - 🌱 **Continuously learning:** Advanced Data Engineering, Cloud-native architectures
 - 👯 **Open to collaborate on:** AI, Data Engineering & Cloud Projects
 - 💬 **Ask me about:** SQL, Python, PySpark, Azure Data Factory, ETL Design
-- 📫 **Reach me at:** [vedp.motigarpur@gmail.com](mailto:vedp.motigarpur@gmail.com) | 📱 +91-8795900521
+- 📫 **Reach me at:** [vedp.motigarpur@gmail.com](mailto:vedp.motigarpur@gmail.com) |
 - 😄 **Pronouns:** He/Him
 
 ---
@@ -44,17 +44,9 @@ I'm a **Data Engineer with 4 years of experience** in designing, implementing, a
 - Established **Delta Lake** transactions ensuring data reliability and integrity within the data lake architecture
 - Proactively managed pipeline issues via ADF monitoring, reducing downtime and ensuring data availability
 
-### 🏢 Paytm, Noida — *Data Analyst* &nbsp; `May 2023 – Jan 2024`
+### 🏢 Paytm, Noida — * Senior Data Analyst* &nbsp; `May 2023 – Jan 2024`
 - Automated employee financial data adjustments, reducing processing time by **50%** for 40,000+ employees
 - Developed complex credit column adjustment logic and output file generator, increasing efficiency by **40%**
-
-### 🏢 De Soto Technologies, Ahmedabad — *Data Analyst* &nbsp; `Jan 2023 – Apr 2023`
-- Developed and maintained ETL processes for accurate data collection from 3 diverse sources
-- Automated data extraction from **Google Analytics to Redshift**, reducing reporting time by **60%**
-
-### 🏢 SalescodeAI, Gurgaon — *L2 Engineer* &nbsp; `July 2021 – Jan 2023`
-- Optimized SQL queries, reducing data processing time by **30%** and improving application responsiveness
-- Analyzed data using **Elasticsearch, Kafka, and AWS logs**; automated daily reports using Advanced Excel
 
 ---
 
@@ -86,23 +78,6 @@ I'm a **Data Engineer with 4 years of experience** in designing, implementing, a
 
 **Kanpur Institute of Technology, Kanpur, India** &nbsp; `2017 – 2021`  
 B.Tech — Computer Science and Engineering | **CGPA: 7.3**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/vedpshukla/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedpshukla&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vedpshukla/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vedpshukla&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedpshukla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
